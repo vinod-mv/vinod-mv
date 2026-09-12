@@ -1,0 +1,21 @@
+<svg width="900" height="90" viewBox="0 0 900 90" xmlns="http://www.w3.org/2000/svg">
+
+  <text x="450" y="35"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-style="italic"
+        fill="#8B949E">
+    <tspan fill="#C19BB5">Science</tspan>
+    <tspan> discovers what is possible.</tspan>
+  </text>
+
+  <text x="450" y="68"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="22"
+        font-style="italic"
+        fill="#8B949E">
+    <tspan fill="#C98F7C">Innovation</tspan>
+    <tspan> decides what is worth building.</tspan>
+  </text>
