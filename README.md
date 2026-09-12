@@ -1,5 +1,3 @@
-<h1 align="center">Vinod Kumar Malamal Vadakital</h1>
-
 <p align="center">
     <img src="./quote.svg" alt="Science discovers what is possible. Innovation decides what is worth building.">
 </p>
