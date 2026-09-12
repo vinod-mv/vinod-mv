@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">
+    <h1 align="center">Vinod Kumar Malamal Vadakital</h1>
+</h1>
 
-<!--
-**vinod-mv/vinod-mv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="./quote.svg" alt="Science discovers what is possible. Innovation decides what is worth building.">
+</p>
 
-Here are some ideas to get you started:
+```lua
+local profile = {
+    mindset = "Grounded in research, driven by innovation.",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    education = {
+        "PhD in Signal Processing",
+        "MSc in Signal Processing",
+        "B.E. in Computer Science & Engineering",
+        "MBA in Finance & Data, Entrepreneurship & Creativity",
+    },
+
+    interests = {
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Signal Processing",
+        "Image & Video Processing",
+        "Computer Graphics",
+        "3D Vision & Geometry",
+    },
+
+    proficiency = {
+        "C", "C++", "Python", "Lua", "Rust"
+    },
+}
+
+-- vim: set ft=lua ts=4 sw=4 sts=4 et
+```
