@@ -7,10 +7,10 @@ local profile = {
     mindset = "Grounded in research, driven by innovation.",
 
     education = {
-        "MBA in Finance & Data, Entrepreneurship & Creativity",
-        "PhD in Signal Processing",
-        "MSc in Signal Processing",
-        "B.E. in Computer Science & Engineering",
+        "MBA  — Finance & Data, Entrepreneurship & Creativity",
+        "PhD  — Signal Processing",
+        "MSc  — Signal Processing",
+        "BE   — Computer Science & Engineering",
     },
 
     interests = {
